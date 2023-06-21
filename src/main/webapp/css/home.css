@@ -1,0 +1,33 @@
+
+
+.slider{
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: 70vh;
+    background: #222;
+   
+
+}
+
+.swiper{
+    width: 100%;
+    height: fit-content;
+
+}
+
+.swiper-slide img{
+    width: 100%;
+}
+
+.swiper .swiper-button-prev, .swiper .swiper-button-next{
+    color: #222;
+}
+
+.swiper .swiper-pagination-bullet-active{
+    background: #222;
+}
+
+.th1 , .th2{
+    color: #616060;
+}
